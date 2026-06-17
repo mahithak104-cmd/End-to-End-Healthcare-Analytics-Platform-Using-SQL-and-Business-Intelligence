@@ -76,6 +76,6 @@ Arthritis and Diabetes represented the highest number of admissions, indicating 
 
 ### Top Revenue Generating Hospitals
 
-![Hospital Revenue Distribution](Top%20Hospital%20Revenue%20Distribution.png)
+![Hospital Revenue Distribution](Hospital%20Revenue%20Distribution.png)
 
 **Insight:**
