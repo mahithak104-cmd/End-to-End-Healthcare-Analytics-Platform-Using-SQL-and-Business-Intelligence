@@ -16,7 +16,6 @@ Through advanced SQL analysis, data validation, and healthcare KPI reporting, th
 - Data Quality Validation
 - Window Functions
 - Healthcare Analytics
-- Business Intelligence
 
 ## 🎯 The Challenge
 
