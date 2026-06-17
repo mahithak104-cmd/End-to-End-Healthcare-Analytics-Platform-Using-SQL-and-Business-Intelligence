@@ -29,3 +29,46 @@ This project was designed to answer several key business questions:
 - What is the average patient length of stay?
 - Are patients being readmitted shortly after discharge?
 - What data quality issues could impact reporting accuracy?
+
+## 🗄️ Database Schema
+
+The healthcare database was normalized into three core tables:
+
+### Patients
+- Patient ID
+- Name
+- Age
+- Gender
+- Blood Type
+
+### Hospitals
+- Hospital ID
+- Hospital Name
+
+### Admissions
+- Admission ID
+- Patient ID
+- Hospital ID
+- Medical Condition
+- Admission Date
+- Discharge Date
+- Billing Amount
+- Admission Type
+- Medication
+- Test Results
+
+Relationships:
+
+Patients (1) ---- (M) Admissions
+
+Hospitals (1) ---- (M) Admissions
+
+## 📊 Key Insights
+
+### Top Medical Conditions by Admissions
+
+![Top Medical Conditions](<img width="669" height="377" alt="Top Medical Conditions" src="https://github.com/user-attachments/assets/30610a4a-126e-4874-a68f-14ba9419c893" />
+)
+
+**Insight:**
+Arthritis and Diabetes represented the highest number of admissions, indicating significant demand for chronic disease management services.
