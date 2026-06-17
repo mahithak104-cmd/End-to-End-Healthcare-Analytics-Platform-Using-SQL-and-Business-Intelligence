@@ -93,3 +93,46 @@ The concentration of revenue among top-performing hospitals highlights opportuni
 
 Asthma patients experienced the longest average hospital stay at 15.71 days, followed closely by Arthritis and Cancer patients.
 
+## 🔄 Readmission Analysis
+
+### Potential 30-Day Readmissions
+
+Using SQL Window Functions (LAG and DATEDIFF), patient admissions were analyzed to identify potential readmissions within 30 days of discharge.
+
+**SQL Techniques Used:**
+
+- Common Table Expressions (CTEs)
+- LAG()
+- DATEDIFF()
+- Window Functions
+
+**Insight:**
+
+Several patients were readmitted within 30 days, suggesting opportunities to improve discharge planning, follow-up care, and chronic disease management.
+
+**Business Impact:**
+
+- Improve patient outcomes
+- Reduce avoidable readmissions
+- Lower healthcare costs
+- Enhance quality-of-care metrics
+
+## ✅ Data Quality Validation
+
+Several validation checks were performed to ensure data reliability:
+
+- Missing Medical Conditions
+- Negative Billing Amounts
+- Invalid Admission and Discharge Dates
+- Duplicate Admission Records
+
+### Findings
+
+- No missing medical condition values detected
+- Negative billing records identified and flagged
+- Invalid date combinations detected
+- Duplicate admission records identified
+
+### Importance
+
+High-quality data is critical for accurate reporting, operational planning, and executive decision-making.
