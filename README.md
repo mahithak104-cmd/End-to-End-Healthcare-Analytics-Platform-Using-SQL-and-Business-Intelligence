@@ -157,7 +157,8 @@ This project showcases the complete analytics lifecycle—from data validation a
 
 **Mahitha Kalinathabotla**
 
-Master's Student in Business Analytics | Data Analytics | Business Intelligence | SQL | Python | Power BI
+Master of Science in Business Analytics  
+University at Albany, SUNY
 
 - GitHub: https://github.com/mahithak104-cmd
 - LinkedIn: [www.linkedin.com/in/mahitha-kalinathabotla]
