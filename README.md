@@ -152,3 +152,7 @@ Through the analysis of 55,000+ patient records, key trends were identified acro
 The findings provide healthcare administrators with valuable information to improve operational efficiency, optimize resource allocation, enhance patient outcomes, and support data-driven decision-making.
 
 This project showcases the complete analytics lifecycle—from data validation and exploratory analysis to business intelligence and executive recommendations.
+
+## 👩‍💻 Author
+
+Mahitha Kalinathabotla 
