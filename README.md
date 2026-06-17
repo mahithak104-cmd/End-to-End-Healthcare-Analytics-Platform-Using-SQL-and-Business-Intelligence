@@ -67,7 +67,7 @@ Hospitals (1) ---- (M) Admissions
 
 ### Top Medical Conditions by Admissions
 
-![Top Medical Conditions](top_medical_conditions.png)
+![Top Medical Conditions](Top_Medical_Conditions.png)
 
 **Insight:**
 Arthritis and Diabetes represented the highest number of admissions, indicating significant demand for chronic disease management services.
