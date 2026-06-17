@@ -87,4 +87,9 @@ The concentration of revenue among top-performing hospitals highlights opportuni
 
 ### Average Length of Stay by Medical Condition
 
+![Length of Stay Analysis](Length%20of%20Stay%20Analysis.png)
+
+**Insight:**
+
+Asthma patients experienced the longest average hospital stay at 15.71 days, followed closely by Arthritis and Cancer patients.
 
