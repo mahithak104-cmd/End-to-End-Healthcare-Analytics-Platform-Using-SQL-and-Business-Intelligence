@@ -71,3 +71,11 @@ Hospitals (1) ---- (M) Admissions
 
 **Insight:**
 Arthritis and Diabetes represented the highest number of admissions, indicating significant demand for chronic disease management services.
+
+## 💰 Revenue Analysis
+
+### Top Revenue Generating Hospitals
+
+![Hospital Revenue Distribution](Hospital Revenue Distribution.png)
+
+**Insight:**
