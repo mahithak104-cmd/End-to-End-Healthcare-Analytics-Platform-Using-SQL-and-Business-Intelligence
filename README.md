@@ -57,11 +57,11 @@ The healthcare database was normalized into three core tables:
 - Medication
 - Test Results
 
-Relationships:
+## 🗂️ Entity Relationship Diagram (ERD) 
 
-Patients (1) ---- (M) Admissions
 
-Hospitals (1) ---- (M) Admissions
+
+The healthcare analytics database was designed using a normalized relational schema to maintain data integrity and support efficient analytical queries.
 
 ## 📊 Key Insights
 
