@@ -59,7 +59,7 @@ The healthcare database was normalized into three core tables:
 
 ## 🗂️ Entity Relationship Diagram (ERD) 
 
-
+![Healthcare ERD](Healthcare%20ERD.png)
 
 The healthcare analytics database was designed using a normalized relational schema to maintain data integrity and support efficient analytical queries.
 
