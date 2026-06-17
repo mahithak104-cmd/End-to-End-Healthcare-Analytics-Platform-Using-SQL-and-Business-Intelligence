@@ -79,3 +79,6 @@ Arthritis and Diabetes represented the highest number of admissions, indicating 
 ![Hospital Revenue Distribution](Hospital%20Revenue%20Distribution.png)
 
 **Insight:**
+Johnson PLC generated the highest revenue at approximately $1.11M, followed by Ltd Smith and LLC Smith.
+
+The concentration of revenue among top-performing hospitals highlights opportunities for benchmarking best practices and improving operational efficiency across the network.
