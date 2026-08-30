@@ -17,18 +17,18 @@ Through advanced SQL analysis, data validation, and healthcare KPI reporting, th
 - Window Functions
 - Healthcare Analytics
 
-## 🎯 The Challenge
+## Business problem
 
-Healthcare systems collect large volumes of operational and financial data, but identifying meaningful patterns requires structured analysis.
+Healthcare organizations need to understand how operational performance varies across hospitals and patient populations, identify unusual changes in performance, investigate potential drivers, and translate those findings into actions that improve operational efficiency and quality of experience.
 
-This project was designed to answer several key business questions:
+## Analytical objectives
 
-- Which hospitals generate the highest revenue?
-- Which medical conditions drive the greatest healthcare utilization?
-- What is the average patient length of stay?
-- Are patients being readmitted shortly after discharge?
-- What data quality issues could impact reporting accuracy?
-
+How is operational performance changing over time?
+Which hospitals and conditions drive the greatest operational burden?
+Where are performance anomalies occurring?
+What factors may be contributing to those anomalies?
+How are operational outcomes related to quality-of-experience indicators?
+What actions should stakeholders prioritize?
 ## 🗄️ Database Schema
 
 The healthcare database was normalized into three core tables:
