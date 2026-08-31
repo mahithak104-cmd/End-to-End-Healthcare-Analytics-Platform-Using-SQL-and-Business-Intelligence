@@ -1,4 +1,4 @@
-#  Healthcare Analytics Platform
+#  Healthcare Analytics 
 
 ### Transforming 55,000+ Healthcare Records into Actionable Insights
 
