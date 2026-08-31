@@ -1,4 +1,4 @@
-# 🏥 Healthcare Analytics Platform
+#  Healthcare Analytics Platform
 
 ### Transforming 55,000+ Healthcare Records into Actionable Insights
 
@@ -8,7 +8,7 @@ This project analyzes over 55,000 healthcare records using SQL to evaluate hospi
 
 Through advanced SQL analysis, data validation, and healthcare KPI reporting, this project demonstrates how healthcare data can be transformed into meaningful business insights and executive recommendations.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - MySQL
 - SQL
@@ -56,13 +56,13 @@ The healthcare database was normalized into three core tables:
 - Medication
 - Test Results
 
-## 🗂️ Entity Relationship Diagram (ERD) 
+## Entity Relationship Diagram (ERD) 
 
 ![Healthcare ERD](Healthcare%20ERD.png)
 
 The healthcare analytics database was designed using a normalized relational schema to maintain data integrity and support efficient analytical queries.
 
-## 📊 Key Insights
+## Key Insights
 
 ### Top Medical Conditions by Admissions
 
@@ -71,7 +71,7 @@ The healthcare analytics database was designed using a normalized relational sch
 **Insight:**
 Arthritis and Diabetes represented the highest number of admissions, indicating significant demand for chronic disease management services.
 
-## 💰 Revenue Analysis
+##  Revenue Analysis
 
 ### Top Revenue Generating Hospitals
 
@@ -82,7 +82,7 @@ Johnson PLC generated the highest revenue at approximately $1.11M, followed by L
 
 The concentration of revenue among top-performing hospitals highlights opportunities for benchmarking best practices and improving operational efficiency across the network.
 
-## 🏥 Length of Stay Analysis
+##  Length of Stay Analysis
 
 ### Average Length of Stay by Medical Condition
 
@@ -92,7 +92,7 @@ The concentration of revenue among top-performing hospitals highlights opportuni
 
 Asthma patients experienced the longest average hospital stay at 15.71 days, followed closely by Arthritis and Cancer patients.
 
-## 🔄 Readmission Analysis
+##  Readmission Analysis
 
 ### Potential 30-Day Readmissions
 
@@ -109,7 +109,7 @@ Using SQL Window Functions (LAG and DATEDIFF), patient admissions were analyzed 
 
 Several patients were readmitted within 30 days, suggesting opportunities to improve discharge planning, follow-up care, and chronic disease management.
 
-## ✅ Data Quality Validation
+##  Data Quality Validation
 
 Several validation checks were performed to ensure data reliability:
 
@@ -125,7 +125,7 @@ Several validation checks were performed to ensure data reliability:
 - Invalid date combinations detected
 - Duplicate admission records identified
 
-### 🎯 Executive Recommendations
+###  Executive Recommendations
 
 ### 1. Strengthen Chronic Disease Management
 Arthritis and Diabetes generated the highest admission volumes, indicating a need for targeted prevention and monitoring programs.
@@ -142,7 +142,7 @@ Address duplicate records, negative billing amounts, and data-entry inconsistenc
 ### 5. Optimize Resource Allocation
 Allocate staffing and hospital resources based on conditions associated with longer average patient stays.
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates how SQL can be used to transform raw healthcare data into actionable business insights.
 
@@ -152,7 +152,7 @@ The findings provide healthcare administrators with valuable information to impr
 
 This project showcases the complete analytics lifecycle—from data validation and exploratory analysis to business intelligence and executive recommendations.
 
-## 👩‍💻 Author
+##  Author
 
 **Mahitha Kalinathabotla**
 
